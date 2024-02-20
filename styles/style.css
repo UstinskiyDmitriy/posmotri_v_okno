@@ -70,8 +70,9 @@ ol {
 
 .result__video-container {
   position: relative;
-  inline-size: 711px;
-  margin: 0 0 11px;
+  height: 386px;
+  width: 711px;
+  margin: 0 0 18px;
 }
 
 .search-form {
