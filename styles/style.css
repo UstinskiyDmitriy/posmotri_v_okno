@@ -81,7 +81,7 @@ ol {
   gap: 40px;
 }
 
-.search-form__fieldset{
+.search-form__fieldset {
   display: flex;
   flex-direction: column;
   gap: 5px;
@@ -121,7 +121,7 @@ ol {
   font-family: inherit;
   font-weight: inherit;
   font-size: inherit;
-  color: #fff;
+  color: currentColor;
   appearance: none;
 }
 
@@ -160,7 +160,7 @@ ol {
   padding: 6px 0;
   border: 1px solid #fff;
   background-color: transparent;
-  color: #fff;
+  color: currentColor;
   font-family: Fira Sans Condensed, sans-serif;
   text-align: center;
   font-size: 18px;
