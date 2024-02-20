@@ -243,6 +243,10 @@ ol {
   outline: 1px solid #fff;
 }
 
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .content__video-card-title {
   font-family: Oswald, sans-serif;
   max-width: 199px;
